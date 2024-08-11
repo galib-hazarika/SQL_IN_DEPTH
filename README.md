@@ -1,0 +1,1 @@
+Basic Sql question practise
